@@ -1,15 +1,18 @@
 # Elearn---Web-endinerring-LAB-projectt
 
 Screenshots of the project
-![screencapture-localhost-webproject-about-php-2022-06-25-17_01_11](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/5150ee84-3ead-456e-a4a7-18c053bc1c2d)
+
+
 ![screencapture-localhost-webproject-certificate-php-2022-06-25-17_00_56](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/b4328f7a-5311-48af-896a-5b3c7b16baca)
 ![screencapture-localhost-webproject-index-php-2022-06-25-17_00_28](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/4fcf6c50-d4bf-4895-9fa5-7ddd61089bf4)
 ![screencapture-localhost-webproject-login-php-2022-06-25-17_00_08](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/59f76376-3f00-4e06-bae4-dbdfe041adb3)
 ![screencapture-localhost-webproject-register-php-2022-06-25-17_04_27](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/9f0d7ba4-ca83-48f5-a6c9-5fca3a1a1493)
 ![screencapture-localhost-webproject-reset-password-php-2022-06-25-17_04_00](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/da8541c0-4081-41ea-a64f-f8824efd8b64)
-![screencapture-localhost-webproject-result-php-2022-06-25-17_00_47](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/1a6903a3-fa35-4e1a-a68c-b2bb59aec66e)
 ![Screenshot_58](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/535d0d68-4d20-4e8a-9acd-8ded02e5a4d0)
+
 Admin Panel
+
+
 ![screencapture-localhost-webproject-admin-certificate-2022-06-25-16_54_37](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/10983b09-78bf-42e6-b80e-511068034e89)
 ![screencapture-localhost-webproject-admin-login-php-2022-06-25-16_59_20](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/a638c78e-6f4c-4ca0-a77b-baf5df505d10)
 ![screencapture-localhost-webproject-admin-result-2022-06-25-16_54_19](https://github.com/Meraz2837/Elearn---Web-Enginerring-LAB-Project/assets/71158270/bd28c2f7-2b4d-4993-b794-e107bbb68e7c)
